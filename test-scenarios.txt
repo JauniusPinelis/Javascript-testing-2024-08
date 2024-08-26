@@ -1,0 +1,18 @@
+Sweets page functionality
+
+Login functionality
+
+Basket functionality:
+    Price calculation functionality:
+
+    Does the price get calculate in the following scenarios:
+        1. Price is correct with a single item.
+        2. Price is correct with multiple items.
+        3. Price is correct when an item is removed.
+        4. Price is 0 after the 'empty basket is clicked'
+
+    Billing address functionality:
+        Form Validation:
+        
+
+

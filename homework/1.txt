@@ -1,0 +1,6 @@
+Please test this website: https://sweetshop.netlify.app/
+
+1. Create a txt document (no formatting is needed) where you split the page into functionalities
+and write test scenarios for each functionality.
+
+2. Mark and comment those scenario which fail.
