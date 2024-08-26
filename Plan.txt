@@ -1,0 +1,16 @@
+Weeks:
+
+1. Manual testing, testing mindset, testing plans and scenarios, test management.
+
+2. FE vs BE vs DB, understanding various different test types.
+Developer tools, GIT. How developers work: Waterfall, Scrum, Jira..
+
+3. API Testing and Postman.
+
+4. Databases testing ( and load testing).
+
+5. FE tests automatization with Cypress (and Javascript recap)
+
+6. Postman tests automatization with CI/CD pipelines.
+
+7. Building 2 test-automation portfolio projects.

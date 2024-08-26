@@ -1,0 +1,17 @@
+1. Experience on API tests;
+2. backend technologies such as APIs, DBs (including SQL knowledge) and services;
+3. Experience with test automation frameworks such as Selenium, Appium, or similar;
+4. Knowledge of CI/CD pipelines and tools such as Git;
+
+Execute the test scenarios outlined in the test plan to verify the new features work correctly.
+Perform smoke testing to verify the most crucial functions of the game.
+Perform regression testing to confirm that new updates have not adversely affected existing features.
+
+Experience with test management (Xray, Zephyr or similar) and test automation tools (Ready API, RestSharp/RestAssured, WebDriver IO, Selenium, Playwright or similar);
+
+Fluency in English.
+
+Mobile Application Testing. Proficient in utilizing tools like WebDriver.io and Appium for mobile environments.
+
+Excellence in Automated Web and API testing.
+Comfortable using API testing tools such as Postman and Swagger.
