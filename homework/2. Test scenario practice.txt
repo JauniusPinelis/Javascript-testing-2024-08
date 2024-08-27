@@ -1,0 +1,5 @@
+Practice a new Test management tool: https://app.testomat.io/ 
+
+1. Register a free trial in testomate and create a new project.
+2. Investigate https://todolist.james.am/#/ and write test cases/scenarios for this application.
+3. Be able to perform a full run in Testomat to perform functional testing scenarios.
