@@ -1,0 +1,31 @@
+The aim for this homework is to practice teamwork, Kanban, trello and testing.
+
+The goal for this project is that you would create a web application with CHATGPT in Javascript:
+It can be Angular, React or other.
+
+It should have a user interface, some logic and you should be able to launch it.
+You choose, but it can be an small eshop or registration form with some validation and logic or a game.
+You choose.
+
+Once you have the application running, i would like to have detailed test scenarios in .txt formats
+to cover all functionality.
+
+I would like for you to work in teams of 2 people.
+
+And also i would like that you would work in Trello Kanban format.
+
+1. You will be grouped into teams of 2.
+2. One person will have to create a Trello and invite other.
+3. Other person will have to create a Github for the project and invite the person to it.
+4. You will have to agree and generate an application that u will be testing. Just keep in mind, that some functionality is required.
+5. Commit the code and the application to Github and decided you how you will write test scenarios and how you will split writing scenarios.
+6. All your work should be visible in Trello board.
+
+1. Zingirdas and Raminta
+2. Simona and Rolandas.
+3. Vitalijus and Agne.
+4. Jurgita and Rasa.
+5. Miroslav and Timas.
+6. Aivarai and Kesnija.
+7. Kajus.
+
