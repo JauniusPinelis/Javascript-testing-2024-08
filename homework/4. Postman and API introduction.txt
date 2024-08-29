@@ -1,0 +1,13 @@
+1. Install Postman.
+2. Register postman account and login into your application with.
+3. Create a CRUD collection for https://jsonplaceholder.typicode.com/ 
+for users and Todos.
+
+This should result in 2 collections with 5 requests each.
+
+
+Advanced Optional:
+Create a new collection and a request for https://developers.thecatapi.com/
+and create GET with some filtering.
+
+This task is way harder and required reading and analysis.
