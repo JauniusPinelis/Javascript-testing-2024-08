@@ -29,3 +29,13 @@
  - Backend
  - REST api
  - Postman
+
+## Week 2
+
+### Day 1.
+
+- Status codes
+- Documentation
+- Swagger
+- Restful
+- Api functionalities.
