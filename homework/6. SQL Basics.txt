@@ -1,0 +1,32 @@
+Practice some basics of SQL in your new local Postgre Server.
+
+1. Connect to your local POstgre Server with pgadmin4
+using host 'localhost' with user 'postgres' and password 'postgres'
+2. Create a new database for 'shop_database'
+3. Create tables for shop and shop_item.
+Shop should have name, address, and post-code
+ShopItem should have name, quantity, Price.
+4. Enter 4 records into each table.
+5. Write a query to get all shop_items
+which quantity multiplies by price is under 20
+
+Advanced, Optional:
+1. Each table should have generated primary key.
+2. Shop and Shop_item should be connected by foreign key constraint.
+3. Do we need an index here?
+
+
+
+CREATE TABLE cars (
+  brand VARCHAR(255),
+  model VARCHAR(255),
+  year INT
+);
+
+select * from cars
+
+insert into cars (brand, model, year)
+values ('Peugeot', '406', '1999')
+
+select * from cars
+where year < 2000
