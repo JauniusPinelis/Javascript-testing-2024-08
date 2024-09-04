@@ -44,3 +44,11 @@
 - Postgre install
 - Databases intro
 - SCRUM
+
+### Day 3
+
+- Working with Postgre
+- Primary key
+- Foreign key constraints
+- Relationships
+- Joins.

@@ -1,0 +1,59 @@
+CREATE TABLE shops (
+    shop_id SERIAL PRIMARY KEY,          -- Unique identifier for each shop
+    shop_name VARCHAR(100) NOT NULL,     -- Name of the shop
+    is_active BOOLEAN DEFAULT TRUE,      -- Whether the shop is currently active
+    created_at TIMESTAMP DEFAULT NOW(),  -- Timestamp of when the record was created
+    updated_at TIMESTAMP DEFAULT NOW()   -- Timestamp of when the record was last updated
+);
+
+CREATE TABLE category (
+    category_id SERIAL PRIMARY KEY,      -- Unique identifier for each category
+    category_name VARCHAR(100) NOT NULL  -- Name of the category
+);
+
+insert into category (category_name)
+values ('Local shop')
+
+select * from category
+
+ALTER TABLE shops
+ADD COLUMN category_id INT,                      -- Add a column for the foreign key
+ADD CONSTRAINT fk_category                       -- Add the foreign key constraint
+FOREIGN KEY (category_id) 
+REFERENCES category(category_id);
+
+delete from category
+where category_id = 2
+
+update shops
+set category_id = 1
+where shop_id = 1
+
+
+insert into shops (shop_name, category_id)
+values ('Akropolos Maxima', 1)
+
+select * from shops
+
+-- I want to get all shops that have category 'supermarket'
+select s.* from shops s
+join category c on c.category_id = s.category_id
+where c.category_name = 'Supermarket'
+
+CREATE TABLE shop_item (
+    item_id SERIAL PRIMARY KEY,          -- Unique identifier for each item
+    item_name VARCHAR(100) NOT NULL UNIQUE,     -- Name of the item
+    shop_id INT NOT NULL,                         -- Foreign key column referencing shops table
+    CONSTRAINT fk_shop                   -- Add the foreign key constraint
+        FOREIGN KEY (shop_id) 
+        REFERENCES shops(shop_id)
+);
+
+insert into shop_item (item_name, shop_id)
+values ('ice cream', 1)
+
+-- i want to get all items that belong to category 'supermarket' 
+select si.* from shops s
+join category c on c.category_id = s.category_id
+join shop_item si on si.shop_id = s.shop_id
+where c.category_name = 'Supermarket'
