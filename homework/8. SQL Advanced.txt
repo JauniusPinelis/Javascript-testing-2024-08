@@ -1,0 +1,17 @@
+1. Restore the database from 
+https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
+locally.
+
+2. Read on the following concepts:
+    1. Indexing
+    2. Triggers
+    3. Procedures and Functions.
+    4. Transactions in Postgre. Rollback and Commit.
+    5. Views.
+    6. Very lightly: concept sharding
+
+3. Practice Group by with different joins:
+
+1. Get customers full_name who has rented most movies in 2005.
+2. GEt top 3 actors who have been involved in most movies.
+3. Get the movie which has been the most profitable.

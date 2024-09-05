@@ -52,3 +52,10 @@
 - Foreign key constraints
 - Relationships
 - Joins.
+
+### Day 4
+
+- Backups 
+- Functions
+- Indexes
+- Views
