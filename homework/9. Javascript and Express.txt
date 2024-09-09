@@ -1,0 +1,10 @@
+Create REST api with Express and Js For Movie and Actor management.
+The api should store data in memory.
+
+for simplicity lets say actor can be involved in just a single movie.
+
+1. Actor can have FirstName, LastName and DateOfBirth
+2. Date of birth cannot be in future.
+3. Movie can have title, creationDate and a single actor associated. Actor Id has to be supplied.
+4. When creating movie, if actor id is not supplied, 400 has to be returned. If Actor does not exist, 404 must be returned.
+5. Create CRUD for Movies and Actors.

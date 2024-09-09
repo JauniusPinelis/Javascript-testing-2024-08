@@ -59,3 +59,10 @@
 - Functions
 - Indexes
 - Views
+
+## Week 3
+
+- SCRUM
+- Jira
+
+- Javascript / Express
