@@ -1,0 +1,5 @@
+In lecture 9 you have developed an api for MOvie and Actor management.
+It store data in memory.
+
+Requirement:
+1. Replace in memory storage to use PostgreSQL local database.

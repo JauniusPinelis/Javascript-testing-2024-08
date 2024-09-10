@@ -62,7 +62,18 @@
 
 ## Week 3
 
+### Day 1
+
 - SCRUM
 - Jira
-
 - Javascript / Express
+
+### Day 2
+
+- Testing types:
+- Functional vs Non-functional testing
+- Regression testing
+- Smoke testing
+- Exploratory testing
+- Git/Github
+- Sanity testing
