@@ -1,0 +1,10 @@
+In homework 10
+you have developed (or started developing) Express integration with Postgre.
+
+1. Finish your code.
+you have a working example in 
+https://github.com/JauniusPinelis/Express-Postgre-Demo
+
+2. Create Postman testing scenarios for all endpoints as in 
+https://github.com/JauniusPinelis/Express-Postgre-Demo/blob/main/Express-json-collection.postman_collection.json
+(Try importing this collection)

@@ -77,3 +77,9 @@
 - Exploratory testing
 - Git/Github
 - Sanity testing
+
+### Day 3
+
+- Github / Branch/ Pull Request
+- Javascript/ SQL integration recap
+- Postman/SQL-testing
