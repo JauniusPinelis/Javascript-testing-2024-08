@@ -1,0 +1,19 @@
+You should have an express api for actors and movies, and Postman collection.
+
+1. Please finish these above if you havent, try understanding the code behind.
+2. We had some basics in Postman testing. See if you can add these automatical 'equal' checks to your postman requests.
+Keep in mind that these checks should be rerunnable.
+
+
+const responseJson = pm.response.json()
+
+pm.collectionVariables.set("actorId", responseJson.id)
+
+// Check that first_name is jaunius and last_name is pinelis
+pm.test("Check that first and last names are correct", function () {
+     var responseObject = pm.response.json();
+
+     pm.expect(responseObject).to.be.an('object');
+     pm.expect(responseObject.first_name).to.eq("Jaunius");
+     pm.expect(responseObject.last_name).to.eq('Pinelis');
+});
