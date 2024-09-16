@@ -1,0 +1,5 @@
+1. Update the Postman tests from 10-11-12 with full use of variables.
+2. Changing Body first_name and last_name should break the test-suite.
+
+3. Changing the code, should trigger automated-test failure.
+4. Tests should have status checks and they all should run under 2s
