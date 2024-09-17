@@ -98,3 +98,8 @@
 - Postman setting variables
 - Postman running collections
 - Postman AI
+
+### Day 2
+
+- Running postman with Newman Console.
+- Git conflicts.

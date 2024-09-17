@@ -1,0 +1,4 @@
+1. Cover full functionality with Postman automated tests.
+2. Allow running Postman tests with Newman.
+3. Write a command which runs your application and newman tests with a single command.
+
