@@ -113,3 +113,7 @@
 - Class/ Id
 - Chrome Developer tools
 
+### Day 4
+
+- Intro to  Cypress
+- Intro FE automated front-tests

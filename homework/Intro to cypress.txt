@@ -1,0 +1,7 @@
+Practice Cypress:
+
+Continue with previous homework.
+1. Install and launch your page with http-server.
+2. Install, configure and launch e2e tests with cypress.
+3. Research .GET .contains .press .type, isolated tests and best practices of cypress.
+4. Try cover your application with cypress automated tests.
