@@ -1,0 +1,10 @@
+Apply the following best practice to you previous homework.
+
+1. Cover all edges cases of your application.
+2. Add BeforeEach
+3. Group your tests into at least 2 Describe blocks.
+4. Use Variables and Functions to reduce code.
+5. Use the right selectors.
+
+
+Optional Extra: Instead of functions use Commands.
