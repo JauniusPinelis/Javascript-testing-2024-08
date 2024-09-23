@@ -117,3 +117,12 @@
 
 - Intro to  Cypress
 - Intro FE automated front-tests
+
+## Week 4
+
+### Day 1
+
+- AAA
+- beforeEach cypress
+- cypress best practices
+- Reusing the code in Cypress tests.
