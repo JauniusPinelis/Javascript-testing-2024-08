@@ -1,0 +1,5 @@
+Please Cover the following website with Cypress e2e automated tests:
+https://todolist.james.am/
+
+1. Try using Cypress commands instead of functions:
+https://docs.cypress.io/api/cypress-api/custom-commands
