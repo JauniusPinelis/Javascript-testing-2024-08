@@ -1,0 +1,5 @@
+You have a working cypress github action file there:
+https://github.com/JauniusPinelis/cypress-pipelines/blob/main/.github/workflows/node.js.yml
+
+1. Please check that previous homework is fully covered with automated tests, commands, describes, variables and etc.
+2. Try adding Github actions which would run your cypress tests automatically whenever you update Main branch.
