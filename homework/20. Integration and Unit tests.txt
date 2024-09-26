@@ -1,0 +1,16 @@
+You have a working integration and unit tests example for employee-api.
+
+Do research and answer the following questions:
+1. What are unit tests and why are theyr written by developers.
+2. What is Jest, and what does it provide?
+3. What is SuperTest, how is it different from Jest.
+4. What is TDD?
+5. How many Unit tests and integration tests are usualy written.
+6. Why developer do not like writing tests?
+
+
+Advanced Optional:
+
+Try changing the code (u can use ChatGPT) to use Postgre instead of Memory.
+
+1. Why does database make writing integration and unit tests harder?
