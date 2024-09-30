@@ -1,0 +1,22 @@
+https://www.automationexercise.com/
+
+We have many test cases in https://www.automationexercise.com/test_cases
+So pickup 8 of those test cases and implement them with Cypress.
+
+Requirements:
+1. Fresh public git repo with .gitignore and Readme. Assume this is going to be a portfolio project.
+2. Logical commit history.
+3. Clean code, naming convetions and test descriptions.
+4. Code structure: i want the test to be at least in 2 different files. 
+I want logical test structure with describe()
+5. Github action which runs tests automatically when main branch is updated.
+'main' should be the main branch
+6. Cypress commands are being used.
+7. No unneeded files.
+
+Readme should be nicely formatted and contain:
+0. What are we testing and what is this about?
+1. Requirements
+2. How to install
+3. How to run tests
+4. Any issues with tests or website?
