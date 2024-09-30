@@ -13,6 +13,8 @@ I want logical test structure with describe()
 'main' should be the main branch
 6. Cypress commands are being used.
 7. No unneeded files.
+8. You will have to explain the code you have written.
+
 
 Readme should be nicely formatted and contain:
 0. What are we testing and what is this about?
