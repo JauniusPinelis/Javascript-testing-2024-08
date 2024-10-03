@@ -145,3 +145,19 @@
 - Integration tests
 - Unit tests
 - TDD
+
+## Week 5
+
+### Day 1
+
+- Cypress Additional features: component tests, interceptors/ fixtures, reports.
+- Snapshot testing.
+
+### Day 2
+
+- Running tests paralelly
+- Mobile testing
+- Headless browsers
+
+
+

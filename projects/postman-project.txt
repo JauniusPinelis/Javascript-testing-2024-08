@@ -1,0 +1,21 @@
+You have an api documentation for Api testing in 
+https://www.automationexercise.com/api_list
+
+Please pick 7 test cases and implement that in Postman.
+
+It looks like instead of json, this api accepts form-data.
+
+Requirements:
+1. Your TEST suite should have at least of 1 GET,  1 POST,  1 Delete
+2. Each test should have a check for status and at least one assertion for response body.
+3. You cannot make assertions for whole data, because it may change, 
+    but you can make checks that the format would not change.
+4. Make the best decision what you can test. 
+
+5. This should be a new repo which contains Postman collections 
+and allows the tests to be ran with newman.
+6. The tests should be re-runnable.
+7. Please add pipeline
+https://github.com/JauniusPinelis/postman-testing-pipelines/blob/main/.github/workflows/main.yml
+
+
