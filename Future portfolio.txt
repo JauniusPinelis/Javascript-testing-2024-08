@@ -1,0 +1,4 @@
+Future ideas for portfolio:
+1. Automated testing with Playwright.
+2. Automated Postman tests that use Express api with Postgre and run on GithubPipelines (Docker for tests)
+3. Appium

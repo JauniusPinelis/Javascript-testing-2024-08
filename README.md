@@ -159,5 +159,12 @@
 - Mobile testing
 - Headless browsers
 
+## Week 6
+
+### Day 1
+
+- Future work.
+- Playwight vs Cypress
+
 
 
